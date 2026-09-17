@@ -1,6 +1,6 @@
 {
   "name": "mcp-bill-of-sale",
-  "version": "0.21.0",
+  "version": "0.22.0",
   "description": "MCP server for a bill of sale generator: bills of sale for vehicles, equipment and stock with signature lines. Record a sale of equipment, a vehicle or stock and get a printable bill of sale with signature lines.",
   "settings": [
     {
